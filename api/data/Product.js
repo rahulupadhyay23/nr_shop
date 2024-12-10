@@ -1,6 +1,5 @@
 const products = [
     {
-      "id":"1",
       "name": "Stylish Silver Wireless Headphones",
       "image": "https://images.pexels.com/photos/3755027/pexels-photo-3755027.jpeg",
       "description": "Modern wireless headphones with minimalist design and premium sound quality.",
@@ -10,7 +9,6 @@ const products = [
       "numReviews": 120
     },
     {
-      "id":"2",
       "name": "Black Over-Ear Headphones",
       "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
       "description": "Comfortable over-ear headphones with noise-canceling features.",
